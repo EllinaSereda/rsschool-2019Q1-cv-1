@@ -1,11 +1,12 @@
 
-##### Anastasia Zabela
+### Anastasia Zabela
 
 **E-mail**: zabela113@mail.ru
 **Mobile**: +375445192827
 
 ```
-I don't have a lot of experience in coding of serious projects, but I have a big passion to learn and ready to work hard to get the best coding skills.
+I don't have a lot of experience in coding of serious projects, but I have a big passion to learn and ready
+to work hard to get the best coding skills.
 I'm getting acquainted with new tools from the first time (at least I think so).
 I never been involved in code learning schools or something like that. 
 I most-likely prefer to study by myself. 
@@ -28,21 +29,21 @@ I like to see a result of my work.
 I have only one **example of the site layout code**.
 [Layout](https://anastasia-zabela.github.io/layout-of-simple-site/)
 
-***Experiance***:
-- RSSchool
-- Codecademy
+***Experience***:
+- RSSchool (study beginning)
+- [Codecademy](https://www.codecademy.com/users/anastasia-zabela/achievements)
 
 ***Education***
 ```
 OmSPU (Omsk State Pedagogical University)
-*Faculty of Economics and Management*
-2013-2017
+/Faculty of Economics and Management/
+2013 - 2017
 ```
 
 ```
-Roling Scopse School
-*JavaScript Development*
-18.02.2019-present tense
+Rolling Scopes School
+/JavaScript Development/
+18.02.2019 - present
 ```
 
 ***English level***: *Pre-Intermediate (A2)*
